@@ -1,0 +1,34 @@
+/* CSS Document */
+textarea { width:614px !important; }
+
+.container { width:976px !important; }
+
+.span-9 { width:361px !important; }
+.span-10 { width:402px !important; }
+.span-11 { width:443px !important; }
+.span-12 { width:484px !important; }
+.span-13 { width:525px !important; }
+.span-14 { width:566px !important; }
+.span-15 { width:607px !important; }
+.span-16 { width:648px !important; }
+.span-17 { width:689px !important; }
+.span-18 { width:730px !important; }
+.span-19 { width:771px !important; }
+.span-20 { width:812px !important; }
+.span-21 { width:853px !important; }
+.span-22 { width:894px !important; }
+.span-23 { width:935px !important; }
+.span-24 { width:976px !important; margin-right:0 !important; }
+
+.breadcrumb-toolbar,
+.breadcrumb-navigation { width:634px !important; }
+
+.breadcrumb-navigation { background-position:608px 0px !important; }
+
+.breadcrumb-navigation a,
+.breadcrumb-navigation span { float:left; }
+
+#map_canvas {
+width: 600px; 
+height: 300px;
+}

@@ -1,0 +1,38 @@
+/* CSS Document */
+textarea { width:286px !important; }
+
+.container { width:320px !important; }
+
+.span-9,
+.span-10,
+.span-11,
+.span-12,
+.span-13,
+.span-14,
+.span-15,
+.span-16,
+.span-17,
+.span-18,
+.span-19,
+.span-20,
+.span-21,
+.span-22,
+.span-23,
+.span-24 { width:320px !important; }
+
+.breadcrumb-toolbar,
+.breadcrumb-navigation { width:306px !important; }
+
+.breadcrumb-navigation { background-position:280px 0px !important; }
+
+.breadcrumb-navigation a,
+.breadcrumb-navigation span { float:left; }
+
+.footer{
+/*height:40px;*/
+}
+
+#map_canvas {
+width: 280px;
+height: 250px
+}
